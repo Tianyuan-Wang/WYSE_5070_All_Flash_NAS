@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WYSE_5070_Riser")(type "KiCad")(uri "${KIPRJMOD}/WYSE_5070_Riser.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty")(options "")(descr ""))
+)

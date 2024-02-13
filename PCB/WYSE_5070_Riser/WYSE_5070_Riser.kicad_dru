@@ -1,0 +1,5 @@
+(version 1)
+
+(rule "Distance between mouse bite NPTHs"
+    (constraint hole_to_hole (min 0.2495mm))
+    (condition "A.Pad_Type == 'NPTH, mechanical' && B.Pad_Type == 'NPTH, mechanical'"))
